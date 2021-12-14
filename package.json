@@ -1,0 +1,82 @@
+{
+"name": "Zero YT7",
+"version": "1.0.0",
+"description": "Please Subscribe Zero YT7",
+"main": "runner.js",
+"directories": {
+"lib": "lib"
+},
+"dependencies": {
+"@adiwajshing/baileys": "github:Zero-YT7/baileys",
+"@vitalets/google-translate-api": "^7.0.0",
+"async": "^2.4.1",
+"awesome-phonenumber": "^2.48.0",
+"axios": "^0.21.1",
+"base64-img": "^1.0.4",
+"base64-to-image": "^1.0.2",
+"brainly-scraper": "^1.0.3",
+"browser-id3-writer": "^4.4.0",
+"cfonts": "^2.9.0",
+"child_process": "^1.0.2",
+"color": "^4.0.0",
+"crypto": "^1.0.1",
+"dotenv": "^8.2.0",
+"emoji-api": "^1.0.2",
+"encodeurl": "^1.0.2",
+"fake-useragent": "^1.0.1",
+"figlet": "^1.5.0",
+"file-type": "^16.3.0",
+"fluent-ffmpeg": "^2.1.2",
+"fs-extra": "^10.0.0",
+"g-i-s": "^2.1.6",
+"got": "^11.8.2",
+"google-it": "^1.6.2",
+"human-readable": "^0.2.1",
+"hxz-api": "^1.0.1",
+"image-to-base64": "^2.2.0",
+"imgbb-uploader": "^1.3.1",
+"insta-fetcher": "^1.2.3",
+"jsdom": "^16.5.2",
+"latest": "^0.2.0",
+"marker": "^0.1.2",
+"mathjs": "^9.4.3",
+"moment-timezone": "^0.5.33",
+"ms": "^2.1.3",
+"node-fetch": "^2.6.1",
+"node-tesseract-ocr": "^2.2.1",
+"os": "^0.1.1",
+"parse-ms": "^2.1.0",
+"performance-now": "^2.1.0",
+"qrcode": "^1.4.4",
+"qrcode-terminal": "^0.12.0",
+"qs": "^6.10.1",
+"remove.bg": "^1.3.0",
+"request": "^2.88.2",
+"request": "^2.88.2",
+"scraper-instagram": "^1.0.17",
+"spinnies": "^0.5.1",
+"terminal-kit": "^2.1.6",
+"tiktok-scraper-without-watermark": "^1.0.6",
+"uninstall": "0.0.0",
+"yt-search": "^2.7.6"
+},
+"scripts": {
+"start": "node runner",
+"test": "supervisor runner"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/Zero-YT7/BaseNew-ZeroYT7"
+},
+"keywords": [
+"Jangan-Lupa-Subscribe",
+"ZeroYT7",
+"BaseNew-ZeroYT7"
+],
+"author": "ZeroYT7",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/Zero-YT7/BaseNew-ZeroYT7"
+},
+"homepage": "https://github.com/Zero-YT7"
+}
